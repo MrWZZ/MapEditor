@@ -1,0 +1,15 @@
+﻿<Window x:Class="MapEditor.ChangeTypeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MapEditor"
+        mc:Ignorable="d"
+        Title="ChangeTypeWindow" Height="300" Width="500" HorizontalAlignment="Center" VerticalAlignment="Top">
+    <Grid>
+        <Button Content="确定"  Width="100" Height="30" Click="Button_Click" Margin="207,210,185,29" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Content="类型：" HorizontalAlignment="Left" Margin="156,97,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbType" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="23" Margin="207,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

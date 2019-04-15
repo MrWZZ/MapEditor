@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "MapEditor\MapEditor.csproj", "{ACD8DE5E-D032-428F-B24A-BBFD35D02AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGrid", "MapGrid\MapGrid.csproj", "{6A536958-8EDA-4B04-8A1E-B31C4A50BE8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTypeControl", "CustomTypeControls\CustomTypeControl.csproj", "{CE97AC95-4D5C-4E23-B10A-601AAB24D9E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD8DE5E-D032-428F-B24A-BBFD35D02AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD8DE5E-D032-428F-B24A-BBFD35D02AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD8DE5E-D032-428F-B24A-BBFD35D02AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD8DE5E-D032-428F-B24A-BBFD35D02AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A536958-8EDA-4B04-8A1E-B31C4A50BE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A536958-8EDA-4B04-8A1E-B31C4A50BE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A536958-8EDA-4B04-8A1E-B31C4A50BE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A536958-8EDA-4B04-8A1E-B31C4A50BE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE97AC95-4D5C-4E23-B10A-601AAB24D9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE97AC95-4D5C-4E23-B10A-601AAB24D9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE97AC95-4D5C-4E23-B10A-601AAB24D9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE97AC95-4D5C-4E23-B10A-601AAB24D9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F4E202-361F-4627-986B-3263F54E608B}
+	EndGlobalSection
+EndGlobal

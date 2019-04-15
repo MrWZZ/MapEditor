@@ -1,0 +1,10 @@
+﻿{
+  "mapTotalPath": null,
+  "mapFileName": null,
+  "path": null,
+  "gridDefaultType": 0,
+  "gridAlpha": 0.2,
+  "gridWidth": 256,
+  "gridHeight": 256,
+  "frontName": "map_"
+}

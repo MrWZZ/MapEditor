@@ -1,0 +1,13 @@
+G:\MapE\MapEditor\MapGrid\bin\Debug\MapGrid.dll
+G:\MapE\MapEditor\MapGrid\bin\Debug\MapGrid.pdb
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.csprojAssemblyReference.cache
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.g.cs
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid_MarkupCompile.cache
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid_MarkupCompile.lref
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.baml
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.g.resources
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.Properties.Resources.resources
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.csproj.GenerateResource.cache
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.csproj.CoreCompileInputs.cache
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.dll
+G:\MapE\MapEditor\MapGrid\obj\Debug\MapGrid.pdb

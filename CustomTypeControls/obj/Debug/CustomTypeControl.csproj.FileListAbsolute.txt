@@ -1,0 +1,13 @@
+G:\MapE\MapEditor\CustomTypeControls\bin\Debug\CustomTypeControls.dll
+G:\MapE\MapEditor\CustomTypeControls\bin\Debug\CustomTypeControls.pdb
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControl.csprojAssemblyReference.cache
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeItem.g.cs
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControls_MarkupCompile.cache
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControls_MarkupCompile.lref
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeItem.baml
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControls.g.resources
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControls.Properties.Resources.resources
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControl.csproj.GenerateResource.cache
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControl.csproj.CoreCompileInputs.cache
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControls.dll
+G:\MapE\MapEditor\CustomTypeControls\obj\Debug\CustomTypeControls.pdb
